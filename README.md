@@ -9,4 +9,26 @@ With all optimism, I proceeded to create a minimalist web server first, one that
 
 And therefore, with some challenges I passed through, and the victory I got over them, I was able to create a fully functional web server.
 
-For a full story of how I created this server, including failures and how I overcame them, check my blog: [How I created a web server](https://dev.to/vulcanric/how-i-created-a-web-server-for-my-portfolio-3j7e).
+For a full story of how I created this server, including failures and how I overcame them, check out my blog: [**How I created a web server**](https://dev.to/vulcanric/how-i-created-a-web-server-for-my-portfolio-3j7e).
+
+## Installation
+Installation of this software includes just _ steps
+1. Clone this repository as a viewer
+```bash
+git clone https://github.com/Vulcanric/ERIC-HTTP-SERVER.git
+```
+2. Enter into the project folder using cd
+```bash
+cd ERIC-HTTP-SERVER
+```
+3. Compile source code
+```bash
+gcc *.c -o eric
+```
+4. Run executable
+```bash
+./eric
+```
+#### Note: that the web server will keep running according to the default information provided by the configuration file, unless you alter it
+
+## Usage
