@@ -1,2 +1,2 @@
 # Eric Hypertext Transfer Protocol Server
-[eric server icon](./img/'eric webserver.png')
+[eric web server icon](https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/img/eric%20webserver.png)
