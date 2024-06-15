@@ -1,5 +1,5 @@
 # Eric Hypertext Transfer Protocol Server
-![eric web server icon](https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/eric%20webserver.png)
+<img src=https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/eric%20webserver.png>eric web server icon</img>
 
 **eric** is a multiprocessing and a multiclient http web server, capable of interacting with web clients, receiving request, retrieving data and serving request with a response, all based on the HTTP protocol.
 ## The story behind
@@ -13,7 +13,7 @@ For a full story of how I created this server, including failures and how I over
 
 ## Demo
 Here's is eric in action
-<video src="https://vimeo.com/956574620?share=copy" width="320" height="240" controls>demo</video>
+<video src="https://vimeo.com/956574620" width="320" height="240" controls>demo</video>
 
 ## Installation
 Installation of this software includes just 3 steps
