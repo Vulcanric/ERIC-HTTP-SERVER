@@ -1,5 +1,6 @@
 # Eric Hypertext Transfer Protocol Server
-<img src=https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/eric%20webserver.png>eric web server icon</img>
+---
+<center><img src=https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/eric%20webserver.png></img></center>
 
 **eric** is a multiprocessing and a multiclient http web server, capable of interacting with web clients, receiving request, retrieving data and serving request with a response, all based on the HTTP protocol.
 ## The story behind
