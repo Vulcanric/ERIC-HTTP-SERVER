@@ -11,24 +11,28 @@ And therefore, with some challenges I passed through, and the victory I got over
 
 For a full story of how I created this server, including failures and how I overcame them, check out my blog: [**How I created a web server**](https://dev.to/vulcanric/how-i-created-a-web-server-for-my-portfolio-3j7e).
 
+## Demo
+Here's is eric in action
+{% embed https://vimeo.com/956574620?share=copy %}
+
 ## Installation
-Installation of this software includes just _ steps
+Installation of this software includes just 3 steps
 1. Clone this repository as a viewer
 ```bash
-git clone https://github.com/Vulcanric/ERIC-HTTP-SERVER.git
+$ git clone https://github.com/Vulcanric/ERIC-HTTP-SERVER.git
 ```
 2. Enter into the project folder using cd
 ```bash
-cd ERIC-HTTP-SERVER
+$ cd ERIC-HTTP-SERVER
 ```
 3. Compile source code
 ```bash
-gcc *.c -o eric
+$ gcc *.c -o eric
 ```
-4. Run executable
-```bash
-./eric
-```
-#### Note: that the web server will keep running according to the default information provided by the configuration file, unless you alter it
+**There'll be a more sound mode of installation in the future.**
 
 ## Usage
+You could use this web server with the steps provided below
+1. Open the configuration file `eric_/eric.conf` using your favorite text editor
+2. Edit this file to your needs, as it controls the way the web server behaves
+3. start or restart the web server to get the latest settings as specified in `eric_/eric.conf`
