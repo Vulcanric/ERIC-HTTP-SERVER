@@ -14,8 +14,7 @@ For a full story of how I created this server, including failures and how I over
 
 ## Demo
 Here's is eric in action
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/956574620?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="0611 (1)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
+[![server icon](https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/thumbnail%20for%20eric%20server.jpg)](https://vimeo.com/956574620)
 ## Installation
 Installation of this software includes just 3 steps
 1. Clone this repository as a viewer
