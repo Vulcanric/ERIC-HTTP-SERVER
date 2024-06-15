@@ -13,7 +13,7 @@ For a full story of how I created this server, including failures and how I over
 
 ## Demo
 Here's is eric in action
-{% embed https://vimeo.com/956574620?share=copy %}
+![ERIC](https://vimeo.com/956574620?share=copy)
 
 ## Installation
 Installation of this software includes just 3 steps
