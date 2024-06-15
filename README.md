@@ -13,7 +13,7 @@ For a full story of how I created this server, including failures and how I over
 
 ## Demo
 Here's is eric in action
-<video src="https://vimeo.com/956574620?share=copy">demo</video>
+<video src="https://vimeo.com/956574620?share=copy" width="320" height="240" controls>demo</video>
 
 ## Installation
 Installation of this software includes just 3 steps
