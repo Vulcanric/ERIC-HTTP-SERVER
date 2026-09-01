@@ -1,5 +1,4 @@
 # Eric Hypertext Transfer Protocol Server
----
 <!-- <center><img src=https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/eric%20webserver.png></img></center> -->
 
 **eric** is a multiprocessing and a multiclient http web server, capable of interacting with web clients, receiving request, retrieving data and serving request with a response, all based on the HTTP protocol.
@@ -18,9 +17,7 @@ For a full story of how I created this server, including failures and how I was 
 ## Demo
 ---
 Here's is eric in action
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/962482536?h=e91b4a16b8" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-
-<!--[![server icon](https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/thumbnail%20for%20eric%20server.jpg)](https://vimeo.com/956574620)-->
+[![server icon](https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/thumbnail%20for%20eric%20server.jpg)](https://player.vimeo.com/video/962482536?h=e91b4a16b8)
 ## Installation
 ---
 Installation of this software includes just 3 steps
