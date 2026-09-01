@@ -18,7 +18,9 @@ For a full story of how I created this server, including failures and how I was 
 ## Demo
 ---
 Here's is eric in action
-[![server icon](https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/thumbnail%20for%20eric%20server.jpg)](https://vimeo.com/956574620)
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/962482536?h=e91b4a16b8" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+<!--[![server icon](https://github.com/Vulcanric/ERIC-HTTP-SERVER/blob/main/.img/thumbnail%20for%20eric%20server.jpg)](https://vimeo.com/956574620)-->
 ## Installation
 ---
 Installation of this software includes just 3 steps
